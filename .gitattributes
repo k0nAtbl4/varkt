@@ -1,3 +1,4 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
 1225.mp4 filter=lfs diff=lfs merge=lfs -text
 1225(сжат).mov filter=lfs diff=lfs merge=lfs -text
